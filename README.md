@@ -65,13 +65,13 @@ where `v > 0` is the degrees of freedom. In the definition, `Beta( x; a, b )` de
 ## Usage
 
 ```javascript
-import logcdf from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-t-logcdf@deno/mod.js';
+import logcdf from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-t-logcdf@v0.2.1-deno/mod.js';
 ```
 
 You can also import the following named exports from the package:
 
 ```javascript
-import { factory } from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-t-logcdf@deno/mod.js';
+import { factory } from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-t-logcdf@v0.2.1-deno/mod.js';
 ```
 
 #### logcdf( x, v )
@@ -144,7 +144,7 @@ y = mylogcdf( 1.0 );
 
 ```javascript
 import randu from 'https://cdn.jsdelivr.net/gh/stdlib-js/random-base-randu@deno/mod.js';
-import logcdf from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-t-logcdf@deno/mod.js';
+import logcdf from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-t-logcdf@v0.2.1-deno/mod.js';
 
 var v;
 var x;

@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2026-09-04)
+## Unreleased (2026-09-21)
 
 <section class="commits">
 
@@ -12,7 +12,7 @@
 
 <details>
 
--   [`a376ea4`](https://github.com/stdlib-js/stdlib/commit/a376ea474fed777346352a554adac8439e9cdedc) - **test:** migrate `stats/base/dists/t/logcdf` to ULP-base assertions [(#14970)](https://github.com/stdlib-js/stdlib/pull/14970) _(by Aryan kumar)_
+-   [`a376ea4`](https://github.com/stdlib-js/stdlib/commit/a376ea474fed777346352a554adac8439e9cdedc) - **test:** migrate `stats/base/dists/t/logcdf` to ULP-based assertions [(#14970)](https://github.com/stdlib-js/stdlib/pull/14970) _(by Aryan kumar)_
 
 </details>
 

@@ -4,7 +4,29 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2026-09-21)
+## Unreleased (2026-10-08)
+
+<section class="features">
+
+### Features
+
+-   [`b36d46a`](https://github.com/stdlib-js/stdlib/commit/b36d46acd2de78ad455c8691056d9a02c9f949a1) - add C implementation for `stats/base/dists/t/logcdf` [(#14694)](https://github.com/stdlib-js/stdlib/pull/14694)
+
+</section>
+
+<!-- /.features -->
+
+<section class="issues">
+
+### Closed Issues
+
+This release closes the following issue:
+
+[#3872](https://github.com/stdlib-js/stdlib/issues/3872)
+
+</section>
+
+<!-- /.issues -->
 
 <section class="commits">
 
@@ -12,6 +34,7 @@
 
 <details>
 
+-   [`b36d46a`](https://github.com/stdlib-js/stdlib/commit/b36d46acd2de78ad455c8691056d9a02c9f949a1) - **feat:** add C implementation for `stats/base/dists/t/logcdf` [(#14694)](https://github.com/stdlib-js/stdlib/pull/14694) _(by Philipp Burckhardt, Karan Anand)_
 -   [`a376ea4`](https://github.com/stdlib-js/stdlib/commit/a376ea474fed777346352a554adac8439e9cdedc) - **test:** migrate `stats/base/dists/t/logcdf` to ULP-based assertions [(#14970)](https://github.com/stdlib-js/stdlib/pull/14970) _(by Aryan kumar)_
 
 </details>
@@ -24,9 +47,11 @@
 
 ### Contributors
 
-A total of 1 person contributed to this release. Thank you to this contributor:
+A total of 3 people contributed to this release. Thank you to the following contributors:
 
 -   Aryan kumar
+-   Karan Anand
+-   Philipp Burckhardt
 
 </section>
 

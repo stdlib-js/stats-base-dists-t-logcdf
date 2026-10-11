@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2026-10-08)
+## Unreleased (2026-10-11)
 
 <section class="features">
 
@@ -34,6 +34,8 @@ This release closes the following issue:
 
 <details>
 
+-   [`aeda4fa`](https://github.com/stdlib-js/stdlib/commit/aeda4fabdcb6a4407ba3aec7daff29f353f38a7a) - **docs:** update Markdown equation elements _(by stdlib-bot)_
+-   [`9887634`](https://github.com/stdlib-js/stdlib/commit/9887634382842e16d59663d59739c516e3a446cf) - **docs:** update Markdown equation SVGs _(by stdlib-bot)_
 -   [`b36d46a`](https://github.com/stdlib-js/stdlib/commit/b36d46acd2de78ad455c8691056d9a02c9f949a1) - **feat:** add C implementation for `stats/base/dists/t/logcdf` [(#14694)](https://github.com/stdlib-js/stdlib/pull/14694) _(by Philipp Burckhardt, Karan Anand)_
 -   [`a376ea4`](https://github.com/stdlib-js/stdlib/commit/a376ea474fed777346352a554adac8439e9cdedc) - **test:** migrate `stats/base/dists/t/logcdf` to ULP-based assertions [(#14970)](https://github.com/stdlib-js/stdlib/pull/14970) _(by Aryan kumar)_
 

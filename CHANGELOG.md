@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2026-10-11)
+## Unreleased (2026-11-07)
 
 <section class="features">
 
@@ -34,6 +34,7 @@ This release closes the following issue:
 
 <details>
 
+-   [`e2a77ec`](https://github.com/stdlib-js/stdlib/commit/e2a77ec64c3b817185334570f41dfc68a5a75a50) - **docs:** update Markdown equation elements _(by stdlib-bot)_
 -   [`aeda4fa`](https://github.com/stdlib-js/stdlib/commit/aeda4fabdcb6a4407ba3aec7daff29f353f38a7a) - **docs:** update Markdown equation elements _(by stdlib-bot)_
 -   [`9887634`](https://github.com/stdlib-js/stdlib/commit/9887634382842e16d59663d59739c516e3a446cf) - **docs:** update Markdown equation SVGs _(by stdlib-bot)_
 -   [`b36d46a`](https://github.com/stdlib-js/stdlib/commit/b36d46acd2de78ad455c8691056d9a02c9f949a1) - **feat:** add C implementation for `stats/base/dists/t/logcdf` [(#14694)](https://github.com/stdlib-js/stdlib/pull/14694) _(by Philipp Burckhardt, Karan Anand)_
